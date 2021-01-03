@@ -1,5 +1,5 @@
 # Project 2: Add style to your previous project.
-## Hosted page on github link->https://007hyno.github.io/html-css-portfolio.github.io/index.html
+#### Hosted page on github link->https://007hyno.github.io/html-css-portfolio.github.io/index.html
 ## Images below -
 ![image](https://user-images.githubusercontent.com/68294675/103472953-61cc4e80-4db9-11eb-8344-b3495816bad2.png)
 
